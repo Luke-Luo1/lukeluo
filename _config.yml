@@ -12,9 +12,9 @@ title                    : "Zhenye's Homepage"
 title_separator          : "-"
 name                     : &name "Zhenye Luo"
 description              : &description "personal description"
-url                      : https://SobotHub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SobotHub/SobotHub.github.io"
+url                      : https://luke-luo1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/lukeluo" # the subpath of your site, e.g. "/blog"
+repository               : "Luke-Luo1/lukeluo"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "SobotHub/SobotHub.github.io"
 author:
   # Biographic information
   avatar           : "KeWu4.png"
-  name             : "Ke Wu"
+  name             : "Zhenye Luo"
   pronouns         : # example: "she/her"  
   bio              : "Focusing on the Mathematical Essence of Deformable Robotic Systems"
   location         : "UAE"
