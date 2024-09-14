@@ -12,8 +12,6 @@ Hi, I’m Zhenye Luo, a recent Master's graduate from the School of Artificial I
 
 ## Selected Papers
 
----
-
 **Luo Z**, Ren M, Hu X*, et al.  
 **Popdg: Popular 3D Dance Generation with PopDanceSet**  
 _In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 26984-26993._  
