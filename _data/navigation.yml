@@ -8,10 +8,10 @@ main:
     url: "https://scholar.google.com.hk/citations?hl=zh-CN&user=wii6meYAAAAJ"
 
   - title: "CV"
-    url: "https://github.com/Luke-Luo1.io/lukeluo/files/CV-lukeluo.pdf"
+    url: "files/CV-lukeluo.pdf"
 
   - title: "中文版简历"
-    url: "https://github.com/Luke-Luo1.io/lukeluo/files/CV-lukeluo-Chinese.pdf"
+    url: "files/CV-lukeluo-Chinese.pdf"
 
  # - title: "Talks"
  #   url: /talks/    
