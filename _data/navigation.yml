@@ -8,10 +8,10 @@ main:
     url: "https://scholar.google.com/citations?user=UOd1SfAAAAAJ&hl=en&oi=sra"
 
   - title: "CV"
-    url: "https://sobothub.github.io/files/CV_KeWforMBZUAI.pdf"
+    url: "https://github.com/Luke-Luo1/lukeluo/blob/master/files/CV-lukeluo.pdf"
 
   - title: "中文版简历"
-    url: "https://sobothub.github.io/files/CV_KeWforMBZUAI.pdf"
+    url: "https://github.com/Luke-Luo1/lukeluo/blob/master/files/CV-lukeluo-Chinese.pdf"
 
  # - title: "Talks"
  #   url: /talks/    
