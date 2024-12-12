@@ -8,7 +8,16 @@ redirect_from:
 ---
 
 # About me
-Hi, I’m Zhenye Luo, a recent Master's graduate from the School of Artificial Intelligence at Beijing Normal University, with a focus on AIGC (AI-generated content). During my Master's studies, I worked on music-driven dance generation and published a first-author paper at CVPR, a top conference in AI and computer vision. I previously obtained a Bachelor's degree in Automation from the School of Information Science and Technology at Beijing University of Chemical Technology in 2021, where I also participated in research on microfluidic chips and their applications. These experiences have well-prepared me to pursue further studies in AIGC and control-related fields, such as robotics. I am currently actively seeking Ph.D. opportunities in these areas. If you are interested, please feel free to contact me via email. Thank you!
+Hi, I’m **Zhenye Luo**. I am currently a Research Assistant at the [Trustworthy and General Artificial Intelligence Laboratory](https://en.westlake.edu.cn/faculty/yaochu-jin.html), Westlake University, focusing on research in **AI + Robotics**.
+
+I recently graduated with a Master's degree from the School of Artificial Intelligence at Beijing Normal University, specializing in **AIGC**. During my Master's studies, I worked on **music-driven dance generation** and published a first-author paper at **CVPR 2024**.
+
+Previously, I earned a **Bachelor's degree in Automation** from the School of Information Science and Technology at Beijing University of Chemical Technology in 2021, where I participated in **microfluidic chip** research.
+
+These experiences have prepared me to delve deeper into **Robotics**, **AIGC**, and **control-related fields**. I am currently actively seeking **Ph.D. opportunities** in these areas. 
+
+If you are interested in my profile or research, please feel free to contact me via email. Thank you!
+
 
 ## Selected Papers
 
