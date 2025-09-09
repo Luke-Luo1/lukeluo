@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About me
-Hi, I’m **Zhenye Luo**. I am currently a PhD candidate at MBZUAI(Mohamed bin Zayed University of Artificial Intelligence), focusing on research in **Robotics**.
+Hi, I’m **Zhenye (Luke) Luo**. I am currently a PhD candidate at MBZUAI(Mohamed bin Zayed University of Artificial Intelligence), focusing on research in **Robotics**.
 
 I graduated with a Master's degree from the School of Artificial Intelligence at Beijing Normal University, specializing in **AIGC**. During my Master's studies, I worked on **3D music-driven dance generation** and published a first-author paper at **CVPR 2024**.
 
