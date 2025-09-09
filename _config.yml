@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhenye's Homepage"
 title_separator          : "-"
-name                     : &name "Zhenye (Luke) Luo"
+name                     : &name "Zhenye Luo"
 description              : &description "personal description"
 url                      : https://luke-luo1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/lukeluo" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Luke-Luo1/lukeluo"
 author:
   # Biographic information
   avatar           : "LukeLuo.jpg"
-  name             : "Zhenye Luo"
+  name             : "Zhenye (Luke) Luo"
   pronouns         : "he/his"  
   bio              : "Focusing on AIGC and Robotics"
   location         : "UAE"
