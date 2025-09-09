@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhenye's Homepage"
 title_separator          : "-"
-name                     : &name "Zhenye Luo"
+name                     : &name "Zhenye (Luke) Luo"
 description              : &description "personal description"
 url                      : https://luke-luo1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/lukeluo" # the subpath of your site, e.g. "/blog"
