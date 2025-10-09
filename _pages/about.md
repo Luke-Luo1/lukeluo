@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 # About me
-Hi, I’m **Zhenye (Luke) Luo**. I am a PhD candidate in Robotics at [MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)](https://mbzuai.ac.ae),  
-co-supervised by [Prof. Cesare Stefanini](https://mbzuai.ac.ae/study/faculty/cesare-stefanini/) and [Prof. Ke Wu](https://mbzuai.ac.ae/study/faculty/ke-wu/).
+Hi, I’m **Zhenye (Luke) Luo**. I am a PhD candidate in Robotics at [MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)](https://mbzuai.ac.ae), co-supervised by [Prof. Cesare Stefanini](https://mbzuai.ac.ae/study/faculty/cesare-stefanini/) and [Prof. Ke Wu](https://mbzuai.ac.ae/study/faculty/ke-wu/).
 
 
 I graduated with a Master's degree from the School of Artificial Intelligence at Beijing Normal University, specializing in **AIGC**. During my Master's studies, I worked on **3D music-driven dance generation** and published a first-author paper at **CVPR 2024**.
